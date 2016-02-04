@@ -33,8 +33,8 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:cenkakin/iyzipay-java.git</connection>
-        <developerConnection>scm:git:git@github.com:cenkakin/iyzipay-java.git</developerConnection>
+        <connection>scm:git:https://github.com/cenkakin/iyzipay-java.git</connection>
+        <developerConnection>scm:git:https://github.com/cenkakin/iyzipay-java.git</developerConnection>
         <url>https://github.com/cenkakin/iyzipay-java</url>
         <tag>HEAD</tag>
     </scm>
