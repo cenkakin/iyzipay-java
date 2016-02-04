@@ -36,7 +36,7 @@
         <connection>scm:git:git@github.com:cenkakin/iyzipay-java.git</connection>
         <developerConnection>scm:git:git@github.com:cenkakin/iyzipay-java.git</developerConnection>
         <url>https://github.com/cenkakin/iyzipay-java</url>
-        <tag>iyzipay-javavv</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
@@ -61,7 +61,6 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.5.2</version>
                 <configuration>
-                    <tag>iyzipay-javavv</tag>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
                     <releaseProfiles>release-profile</releaseProfiles>
                 </configuration>
