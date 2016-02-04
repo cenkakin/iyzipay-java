@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.iyzipay</groupId>
     <artifactId>iyzipay-java</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>iyzipay-java</name>
     <description>iyzipay api java client</description>
@@ -61,7 +61,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.5.2</version>
                 <configuration>
-                    <tag>iyzipay-javavv</tag>
+                    <tag>iyzipay-javav</tag>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
                     <releaseProfiles>release-profile</releaseProfiles>
                 </configuration>
