@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.iyzipay</groupId>
     <artifactId>iyzipay-java</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>iyzipay-java</name>
     <description>iyzipay api java client</description>
@@ -36,7 +36,7 @@
         <connection>scm:git:git@github.com:cenkakin/iyzipay-java.git</connection>
         <developerConnection>scm:git:git@github.com:cenkakin/iyzipay-java.git</developerConnection>
         <url>https://github.com/cenkakin/iyzipay-java</url>
-        <tag>iyzipay-javav</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
@@ -61,7 +61,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.5.2</version>
                 <configuration>
-                    <tag>iyzipay-javav</tag>
+                    <tag>iyzipay-javavv</tag>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
                     <releaseProfiles>release-profile</releaseProfiles>
                 </configuration>
