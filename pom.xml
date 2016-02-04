@@ -149,7 +149,7 @@
                             <message>Official ${project.name} build</message>
                             <server>github.com</server>
                             <repositoryName>iyzipay-java</repositoryName>
-                            <repositoryOwner>cenakin</repositoryOwner>
+                            <repositoryOwner>cenkakin</repositoryOwner>
                         </configuration>
                         <executions>
                             <execution>
